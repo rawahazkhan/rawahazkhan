@@ -21,7 +21,7 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rawahazkhan)  
 
-🏅 **Badges:** Python | Problem Solving  
+🏅 **Badges:** Python | Problem Solving | 30 Days Of Code  
 💻 Regularly solving challenges to improve problem-solving skills and coding speed.  
 
 <h3>✦ GitHub Stats:</h3>
